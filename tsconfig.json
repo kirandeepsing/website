@@ -1,0 +1,11 @@
+
+{
+    "compilerOptions": {
+      "baseUrl": ".",  // Make sure baseUrl is set to the root of your project
+      "paths": {
+        "@assets/*": ["src/assets/*"],
+        "@components/*": ["src/component/*"]
+      }
+    }
+  }
+  
