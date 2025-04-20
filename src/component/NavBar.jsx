@@ -23,7 +23,7 @@ const NavBar = () => {
       <div className='navbar1 ml-5 lg:ml-0 w-[640px] sm:w-[740px] md:w-[1002px] lg:w-full lg:text-lg '>
         <h2 className='h-20 lg:h-8 bg-white shadow-2xl  text-3xl flex-wrap text-center'>For More Info Call Us At: 98148-53349, 62392-16916</h2>
       </div>
-      <div className='navbar2  ml-5 lg:ml-0  w-[610px]  sm:w-[740px] md:w-[1002px] lg:w-full flex h-52 lg:h-32 bg-gray-900 relative'>
+      <div className='navbar2  ml-5 lg:ml-0  w-[640px]  sm:w-[740px] md:w-[1002px] lg:w-full flex h-52 lg:h-32 bg-gray-900 relative'>
       <h2 className='absolute'>sidebar</h2>
         <img className='absolute h-44 lg:h-28 top-2 left-8' src={ace} alt="" />
         <ul className=' w-[640px] sm:w-[740px] md:w-[1002px] lg:flex lg:flex-row  lg:w-full lg:block hidden  flex-col ml-52 space-x-20 mt-10 text-gray-300 text-lg'>
@@ -36,7 +36,7 @@ const NavBar = () => {
         <h2 className="mt-10 ml-96 lg:ml-32 text-3xl lg:text-lg text-gray-300 ">userlogo</h2>
       </div>
     <div className='w-[640px] sm:w-[740px] md:w-[1002px] lg:w-full'>
-        <img className='w-[610px]  ml-5 lg:ml-0 sm:w-[740px] lg:w-full h-[500px]' src={acehero} alt="" />
+        <img className='w-[640px]  ml-5 lg:ml-0 sm:w-[740px] lg:w-full h-[500px]' src={acehero} alt="" />
     </div>
    <div className='lg:h-96 lg:w-full  ml-5 lg:ml-0 h-[500px] w-[610px] sm:w-[740px] md:w-[1002px]  text-3xl flex flex-col space-y-10 lg:text-lg items-center justify-center'>
     <h1>About Ace-Agasthya Coaching Classes</h1>
@@ -96,7 +96,7 @@ const NavBar = () => {
    </div>
    <div className=' flex flex-col h-[1000px] lg:w-full w-[640px]  sm:w-[740px] md:w-[1002px] mt-4 lg:mt-0 lg:flex lg:flex-row space-y-6 space-x-6 ml-5 lg:h-72'>
     <div className='relative flex  justify-center items-center lg:h-auto h-[300px]'>
-    <img className='lg:w-96 w-[630px] relative h-72  ' src={main1} alt="" />
+    <img className='lg:w-96 w-[640px] relative h-72  ' src={main1} alt="" />
     <p className='text-white  font-bold text-3xl  absolute top-0'>COACHING <br /> CLASSES <br /> NEET <br /> COACHING <br /> CLASSES <br /> JEE <br /> COACHING <br /> KHARAR</p>
     </div>
     <div className='relative flex justify-center items-center'>
@@ -104,7 +104,7 @@ const NavBar = () => {
     <p className='text-white  font-bold text-3xl  absolute top-0'>COACHING <br /> CLASSES <br /> NEET <br /> COACHING <br /> CLASSES <br /> JEE <br /> COACHING <br /> KHARAR</p>
     </div>
     <div className='relative flex justify-center items-center'>
-    <img className='lg:w-96 w-[580px] sm:w-[740px] md:w-[1002px] relative h-72' src={main3} alt="" />
+    <img className='lg:w-96 w-[640px] sm:w-[740px] md:w-[1002px] relative h-72' src={main3} alt="" />
     <p className='text-white font-bold text-3xl absolute top-0'>COACHING <br /> CLASSES <br /> NEET <br /> COACHING <br /> CLASSES <br /> JEE <br /> COACHING <br /> KHARAR</p>
     </div>
    </div>
